@@ -1,0 +1,23 @@
+{
+  "name" : "kakapoLog",
+  "version" : "0.1.0",
+  "author" : "Andres Lozada Mosto <<a href="mailto:alfathenus@gmail.com"alfathenus@gmail.com</a>",
+  "description" : "Logging library.",
+  "contributors" : [],
+  "bin":{},
+  "main" : "./index",
+  "repository" : {
+  	"type": "git", 
+  	"url": "git://github.com/alfathenus/KakapoLog.git"
+  },
+  "keywords" : ["util", "logging", "console", "filesystem"],
+  "dependencies" : [],
+  "devDependencies": {
+    "cucumber" : "latest"
+  }
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+  "homepage" : "<a href="https://github.com/alfathenus/KakapoLog</a", 
+}
