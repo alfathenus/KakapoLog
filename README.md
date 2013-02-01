@@ -1,4 +1,4 @@
 KakapoLog
 =========
 
-Simple logger for Node.js
+Simple logger for Node.js 2
